@@ -12,7 +12,7 @@ const ProductListByCategoryPage = lazy(() =>
   import("./pages/productListByCategoryPage")
 );
 const ProductDetailsPage = lazy(() => import("./pages/productDetailsPage"));
-const Login = lazy(() => import("./ui/login"));
+const Login = lazy(() => import("./auth/login"));
 const WishListPage = lazy(() => import("./pages/wishList"));
 
 function App() {
