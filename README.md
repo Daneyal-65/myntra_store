@@ -59,9 +59,7 @@ The backend is developed using **Node.js** and **Express.js**, ensuring efficien
 3. Start the backend server:
    ```bash
    npm run dev
-   ```
 
-   ```
 
 ## **UI Design**
 
