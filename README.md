@@ -1,4 +1,6 @@
 # **Myntra Clone - E-commerce Fashion Website**
+## **Live Preview** 
+-https://myntra-store-xi.vercel.app/
 
 ## **Project Overview**
 
